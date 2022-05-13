@@ -30,7 +30,7 @@ Bibliotecas
 
 ## 💻 Projeto
 
-DoctorCare é uma aplicação feita do zero em 1 semana pelo evento da [Rocketseat(https://www.rocketseat.com.br)] Rocketseat: NWL - Return.
+DoctorCare é uma aplicação feita do zero em 1 semana pelo evento da [Rocketseat](https://www.rocketseat.com.br): NWL - Return.
 
 🌐 Site com o projeto: https://vini-marques.github.io/doctorcare/
 
